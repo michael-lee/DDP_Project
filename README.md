@@ -1,4 +1,4 @@
-Developing Data Projects Project: PredictHeight
+Developing Data Products Project: PredictHeight
 =======================================================================
 
 Try the PredictHeight Shiny App:
